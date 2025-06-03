@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Eris Silva Data Scientist 
+# 👋 Olá! Eu sou Eris Silva Data Scientist JR.
 
 🎓 Formado em Tecnologia em Dados  
 💻 Apaixonado por programação, dados e automação  
