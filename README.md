@@ -31,8 +31,7 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- Email: seuemail@gmail.com
+- Email: erisvaldo1201silva@gmail.com
 - GitHub: [ErisSilva](https://github.com/ErisSilva)
 
 ---
