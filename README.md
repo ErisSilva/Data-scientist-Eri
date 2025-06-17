@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Eri Silva estudante de Data Scientist.
+# 👋 Olá! Sou Eri Silva estudante de Data Sciense.
 
 🎓 Estudante de Tecnologia em Dados  
 💻 Apaixonado por programação, dados e automação  
