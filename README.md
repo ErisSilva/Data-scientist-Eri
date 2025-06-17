@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Eri Silva Data Scientist JR.
+# 👋 Olá! Eu sou Eri Silva estudante de Data Scientist.
 
 🎓 Estudante de Tecnologia em Dados  
 💻 Apaixonado por programação, dados e automação  
