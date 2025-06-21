@@ -22,7 +22,7 @@
 |--------|-----------|-------------|
 | [Análise de Dados financeiro](#) | Análise exploratória de dados com Python e Pandas | Python, Pandas, Matplotlib |
 | [ETL com API Pública](#) | Coleta, transformação e carga de dados usando Python | Python, Requests, CSV |
-| [Dashboard de Vendas](#) | Visualização de dados com Power BI | Power BI, |
+| [Dashboard](#) | Visualização de dados com Power BI | Power BI, |
 | [App de Visualização de Dados](#) |  Explorar bases de dados | Python |
 
 > 🔗 *Os links serão atualizados conforme meus projetos forem publicados.*
@@ -36,4 +36,4 @@
 
 ---
 
-**_"Em construção constante, assim como bons dados."_**
+**_"Em construção constante, "armazenei Meus conhecimentos", assim como boas bases de dados!"_**
